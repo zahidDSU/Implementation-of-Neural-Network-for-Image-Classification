@@ -1,5 +1,4 @@
-# Implementation-of-Neural-Network-for-Image-Classification
-
+# Implementation of Image Classification-MNIST Dataset Using Neural Network-With Hyperparameter Tuning.
 # Project Summary
 In this project, we implemented a neural network for image classification. The primary objectives included data preparation, designing a neural network architecture, training, evaluation, and reporting.
 
